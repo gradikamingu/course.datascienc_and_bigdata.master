@@ -1,4 +1,4 @@
-# course.datascienc_and_bigdata.master
+# course.datascience_and_bigdata.master
 
 This repository contains the assignments, projects, and practical exercises I completed for the Data Science and Big Data courses in the Master’s program in Computer Science (AI & Data Science concentration).
 
